@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "「１」",
+  "base_artist": "望月穂波",
+  "createdAt": "2025-12-04T18:32:51.594654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "１・２・３ - 1 2 3",
+      "artist": "After the Rain",
+      "has_synced": true,
+      "path": "select/01_1・2・3_-_1_2_3_After_the_Rain.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "１・２・３",
+      "artist": "After the Rain",
+      "has_synced": true,
+      "path": "select/02_1・2・3_After_the_Rain.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "１（TV EDIT)",
+      "artist": "MOB CHOIR",
+      "has_synced": false,
+      "path": "select/03_1(TV_EDIT)_MOB_CHOIR.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "１・２・３ (Paused)",
+      "artist": "After the Rain",
+      "has_synced": true,
+      "path": "select/04_1・2・3_(Paused)_After_the_Rain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "１％通行",
+      "artist": "Sanso Nakamura",
+      "has_synced": false,
+      "path": "select/05_1_通行_Sanso_Nakamura.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "冬眠 (１.３X)",
+      "artist": "小飞机",
+      "has_synced": false,
+      "path": "select/06_冬眠_(1.3X)_小飞机.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「1」",
+      "artist": "望月穂波",
+      "has_synced": false,
+      "path": "select/pl_01_「1」_望月穂波.txt"
+    }
+  ]
+}
